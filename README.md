@@ -92,10 +92,38 @@
 
 <br> 
 
+<!--
+
 ---
 
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
 ----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Nareman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=naremanabdalla&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naremanabdalla&langs_count=8&show_icons=true&locale=en&theme=tokyonight" alt="Top Langs" height="230px"/>
+</p>
+</details>
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+	
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=naremanabdalla&theme=github)](https://github.com/naremanabdalla)
+ 
+</details>
+	
+<details><summary><h3> :open_file_folder: My Projects </h3></summary>
+
+----
+-->
+
 <!-- <div>
+
   <p align="center">
     <a href="https://github.com/naremanabdalla/Reservio">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=naremanabdalla&repo=Reservio&theme=tokyonight" alt="Reservio" />
