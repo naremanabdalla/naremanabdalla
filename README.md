@@ -32,7 +32,7 @@
 
 ## 🛠️ My Skills
 <!-- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> -->
-###  Core & Languages
+Core & Languages
 
 <p align="center"> 
   &emsp; 
@@ -45,7 +45,7 @@
   </a> 
 </p>
 <!-- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> -->
-###  Frontend Development
+ Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="#" target="_blank"> 
@@ -77,7 +77,7 @@
   </a>
 </p>
 <!-- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> -->
- ###  Tools & Backend Basics
+ Tools & Backend Basics
  
 <p align="center">
   &emsp;
