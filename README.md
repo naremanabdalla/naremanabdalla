@@ -19,9 +19,6 @@
 
 - :woman_technologist: I am a **Frontend Developer** and a **Computer Science Graduate** from **Cairo University**.
 - :rocket: Skilled in building responsive web applications using **React.js**, **Vue.js**, and **Next.js**.
-- :art: Experienced in **UI/UX Development** and translating designs from **Figma** into clean code.
-- :fire: Strong background in integrating **Firebase** and **RESTful APIs**.
-- :chart_with_upwards_trend: Focused on performance tuning, reusable components, and optimized user experiences.
 - :mailbox: How to reach me: **naremanabdalla33@gmail.com**
 
 <br>
@@ -91,8 +88,6 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jest" src="https://img.shields.io/badge/-Jest-%23C21325?style=plastic&logo=jest&logoColor=white"></a>
 </p>
 
 <br> 
@@ -123,7 +118,7 @@
 <details><summary><h3> :open_file_folder: My Projects </h3></summary>
 
 ----
-<div>
+<!-- <div>
   <p align="center">
     <a href="https://github.com/naremanabdalla/Reservio">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=naremanabdalla&repo=Reservio&theme=tokyonight" alt="Reservio" />
@@ -138,5 +133,5 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=naremanabdalla&repo=Warehouse-Management&theme=tokyonight" alt="WMS" />
     </a>
   </p>
-</div>
+</div> -->
 </details>
