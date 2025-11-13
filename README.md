@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nareman Abdallah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/naremanabdalla">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25C8B8&size=25&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%26+Vue.js+Specialist;UI%2FUX+Enthusiast;Building+Scalable+Web+Apps">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25C8B8&size=25&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%26+Vue.js+developer;Building+Scalable+Web+Apps">
   </a>
 </p>
 
