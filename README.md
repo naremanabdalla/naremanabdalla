@@ -31,7 +31,7 @@
 </p>
 
 ## 🛠️ My Skills
-
+<!-- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> -->
 ###  Core & Languages
 
 <p align="center"> 
@@ -44,8 +44,8 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
   </a> 
 </p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+<!-- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> -->
+###  Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="#" target="_blank"> 
@@ -76,8 +76,8 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
   </a>
 </p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Tools & Backend Basics
+<!-- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> -->
+ ###  Tools & Backend Basics
  
 <p align="center">
   &emsp;
@@ -93,29 +93,6 @@
 <br> 
 
 ---
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Nareman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=naremanabdalla&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naremanabdalla&langs_count=8&show_icons=true&locale=en&theme=tokyonight" alt="Top Langs" height="230px"/>
-</p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=naremanabdalla&theme=github)](https://github.com/naremanabdalla)
- 
-</details>
-	
-<details><summary><h3> :open_file_folder: My Projects </h3></summary>
 
 ----
 <!-- <div>
